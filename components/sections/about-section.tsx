@@ -58,27 +58,27 @@ export function AboutSection() {
             <p className="text-sm font-medium text-primary uppercase tracking-wider mb-3">
               About Us
             </p>
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight text-foreground leading-tight text-balance">
-            Our Story
-          </h2>
-          <div className="mt-6 space-y-4 text-muted-foreground leading-relaxed">
-            <p>
-              ALMZAJ began operations in Saudi Arabia in 2006, starting as a small electronics trading 
-              business. Over the years, we developed expertise in IT asset disposition, device 
-              refurbishment, and electronics recycling.
-            </p>
-            <p>
-              In 2020, we opened our first branch in the United Arab Emirates, expanding our reach 
-              to serve more clients across the GCC region. Our Dubai and Ajman operations have allowed 
-              us to better support businesses in the Emirates.
-            </p>
-            <p>
-              In 2025, we took our next step by establishing ALMZAJ USA Import & Export Inc. in Albany, 
-              New York. This new office represents our first venture into the North American market, 
-              and we are focused on building our presence here while continuing to serve our established 
-              client base in the Middle East.
-            </p>
-          </div>
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold tracking-tight text-foreground leading-tight text-balance">
+              Our Story
+            </h2>
+            <div className="mt-6 space-y-4 text-muted-foreground leading-relaxed">
+              <p>
+                ALMZAJ began operations in Saudi Arabia in 2006, starting as a small electronics trading
+                business. Over the years, we developed expertise in IT asset disposition, device
+                refurbishment, and electronics recycling.
+              </p>
+              <p>
+                In 2020, we opened our first branch in the United Arab Emirates, expanding our reach
+                to serve more clients across the GCC region. Our Dubai and Ajman operations have allowed
+                us to better support businesses in the Emirates.
+              </p>
+              <p>
+                In 2026, we took our next step by establishing ALMZAJ USA Import & Export Inc. in Albany,
+                New York. This new office represents our first venture into the North American market,
+                and we are focused on building our presence here while continuing to serve our established
+                client base in the Middle East.
+              </p>
+            </div>
           </motion.div>
 
           {/* Right Content - Values Grid */}

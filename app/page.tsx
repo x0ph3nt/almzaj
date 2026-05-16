@@ -1,8 +1,9 @@
 import { Navbar } from '@/components/navbar'
 import { HeroSection } from '@/components/sections/hero-section'
-import { GlobalPresenceSection } from '@/components/sections/global-presence-section'
 import { AboutSection } from '@/components/sections/about-section'
 import { ServicesSection } from '@/components/sections/services-section'
+import { FacilitiesSection } from '@/components/sections/FacilitiesSection' // السكشن الجديد بالصور
+import { GlobalPresenceSection } from '@/components/sections/global-presence-section'
 import { WhyChooseUsSection } from '@/components/sections/why-choose-us-section'
 import { StatisticsSection } from '@/components/sections/statistics-section'
 import { ProcessSection } from '@/components/sections/process-section'
@@ -18,6 +19,7 @@ export default function HomePage() {
       <HeroSection />
       <AboutSection />
       <ServicesSection />
+      <FacilitiesSection />
       <GlobalPresenceSection />
       <WhyChooseUsSection />
       <StatisticsSection />
